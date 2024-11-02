@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "headers": [
+      {
+        "source": "**",
+        "key": "Access-Control-Allow-Origin",
+        "value": "*"
+      }
+    ]
+  }
+}
