@@ -1,7 +1,8 @@
 [
   {
     "origin": [
-      "*"
+      "*",
+      "https://vintage-car-market----testing.webflow.io"
     ],
     "method": [
       "GET",
